@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.dpftfy",
+      "sha256_cert_fingerprints": ["49:FA:CA:F8:78:FD:63:6F:8D:96:3D:59:A6:89:9D:35:43:81:91:55:C5:D7:08:EA:D6:17:87:75:0F:E4:1C:75","D4:DF:5F:0E:E1:6D:D0:52:E4:36:D1:A7:5F:1D:40:1E:F1:1C:98:05:C6:1F:3D:F6:53:33:89:1A:E2:BF:1D:C0"]
+    }
+  }
+]
